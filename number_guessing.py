@@ -26,7 +26,7 @@ def play_game():
         attempts += 1
 
         if guess == secret_number:
-            print(f"\n🎉 Congratulations! You guessed the number {secret_number} in {attempts} attempts! 🎉")
+            print(f"\n Congratulations! You guessed the number {secret_number} in {attempts} attempts! ")
             break
         
         correct_positions, misplaced_digits = evaluate_guess(guess, secret_number)
