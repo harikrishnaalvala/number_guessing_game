@@ -35,15 +35,15 @@ This is a fun and interactive command-line number guessing game where the player
 ```
 Welcome to the Number Guessing Game! Try to guess the 4-digit number.
 Guess the 4-digit number: 1234
-✅ Correctly placed digits: 1
-🔄 Misplaced but correct digits: 2
+Correctly placed digits: 1
+Misplaced but correct digits: 2
 
 Guess the 4-digit number: 5678
 None of the numbers in your input match.
 
-🎉 Congratulations! You guessed the number 7384 in 5 attempts! 🎉
+Congratulations! You guessed the number 7384 in 5 attempts!
 Want to play again? (yes/no): no
-Thanks for playing! Your best attempt was 5 tries. 👋
+Thanks for playing! Your best attempt was 5 tries.
 ```
 
 ## License
